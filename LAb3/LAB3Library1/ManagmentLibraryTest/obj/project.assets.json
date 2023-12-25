@@ -1713,14 +1713,14 @@
           "build/netcoreapp3.1/xunit.runner.visualstudio.props": {}
         }
       },
-      "LAB3Library1/1.0.0": {
+      "ManagmentLibrary.Core/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "compile": {
-          "bin/placeholder/LAB3Library1.dll": {}
+          "bin/placeholder/ManagmentLibrary.Core.dll": {}
         },
         "runtime": {
-          "bin/placeholder/LAB3Library1.dll": {}
+          "bin/placeholder/ManagmentLibrary.Core.dll": {}
         }
       }
     }
@@ -5517,15 +5517,15 @@
         "xunit.runner.visualstudio.nuspec"
       ]
     },
-    "LAB3Library1/1.0.0": {
+    "ManagmentLibrary.Core/1.0.0": {
       "type": "project",
-      "path": "../LAB3Library1/LAB3Library1.csproj",
-      "msbuildProject": "../LAB3Library1/LAB3Library1.csproj"
+      "path": "../LAB3Library1/ManagmentLibrary.Core.csproj",
+      "msbuildProject": "../LAB3Library1/ManagmentLibrary.Core.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
-      "LAB3Library1 >= 1.0.0",
+      "ManagmentLibrary.Core >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 17.5.0",
       "coverlet.collector >= 3.2.0",
       "xunit >= 2.4.2",
@@ -5564,8 +5564,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "F:\\Учёба\\КПИ\\3 курс\\МРПЗ\\3lab\\teamgood\\LAb3\\LAB3Library1\\LAB3Library1\\LAB3Library1.csproj": {
-              "projectPath": "F:\\Учёба\\КПИ\\3 курс\\МРПЗ\\3lab\\teamgood\\LAb3\\LAB3Library1\\LAB3Library1\\LAB3Library1.csproj"
+            "F:\\Учёба\\КПИ\\3 курс\\МРПЗ\\3lab\\teamgood\\LAb3\\LAB3Library1\\LAB3Library1\\ManagmentLibrary.Core.csproj": {
+              "projectPath": "F:\\Учёба\\КПИ\\3 курс\\МРПЗ\\3lab\\teamgood\\LAb3\\LAB3Library1\\LAB3Library1\\ManagmentLibrary.Core.csproj"
             }
           }
         }

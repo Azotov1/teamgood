@@ -4,12 +4,12 @@
     "F:\\Учёба\\КПИ\\3 курс\\МРПЗ\\3lab\\teamgood\\LAb3\\LAB3Library1\\ManagmentLibraryTest\\ManagmentLibraryTest.csproj": {}
   },
   "projects": {
-    "F:\\Учёба\\КПИ\\3 курс\\МРПЗ\\3lab\\teamgood\\LAb3\\LAB3Library1\\LAB3Library1\\LAB3Library1.csproj": {
+    "F:\\Учёба\\КПИ\\3 курс\\МРПЗ\\3lab\\teamgood\\LAb3\\LAB3Library1\\LAB3Library1\\ManagmentLibrary.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Учёба\\КПИ\\3 курс\\МРПЗ\\3lab\\teamgood\\LAb3\\LAB3Library1\\LAB3Library1\\LAB3Library1.csproj",
-        "projectName": "LAB3Library1",
-        "projectPath": "F:\\Учёба\\КПИ\\3 курс\\МРПЗ\\3lab\\teamgood\\LAb3\\LAB3Library1\\LAB3Library1\\LAB3Library1.csproj",
+        "projectUniqueName": "F:\\Учёба\\КПИ\\3 курс\\МРПЗ\\3lab\\teamgood\\LAb3\\LAB3Library1\\LAB3Library1\\ManagmentLibrary.Core.csproj",
+        "projectName": "ManagmentLibrary.Core",
+        "projectPath": "F:\\Учёба\\КПИ\\3 курс\\МРПЗ\\3lab\\teamgood\\LAb3\\LAB3Library1\\LAB3Library1\\ManagmentLibrary.Core.csproj",
         "packagesPath": "C:\\Users\\8\\.nuget\\packages\\",
         "outputPath": "F:\\Учёба\\КПИ\\3 курс\\МРПЗ\\3lab\\teamgood\\LAb3\\LAB3Library1\\LAB3Library1\\obj\\",
         "projectStyle": "PackageReference",
@@ -91,8 +91,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "F:\\Учёба\\КПИ\\3 курс\\МРПЗ\\3lab\\teamgood\\LAb3\\LAB3Library1\\LAB3Library1\\LAB3Library1.csproj": {
-                "projectPath": "F:\\Учёба\\КПИ\\3 курс\\МРПЗ\\3lab\\teamgood\\LAb3\\LAB3Library1\\LAB3Library1\\LAB3Library1.csproj"
+              "F:\\Учёба\\КПИ\\3 курс\\МРПЗ\\3lab\\teamgood\\LAb3\\LAB3Library1\\LAB3Library1\\ManagmentLibrary.Core.csproj": {
+                "projectPath": "F:\\Учёба\\КПИ\\3 курс\\МРПЗ\\3lab\\teamgood\\LAb3\\LAB3Library1\\LAB3Library1\\ManagmentLibrary.Core.csproj"
               }
             }
           }
