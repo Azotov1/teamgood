@@ -1,0 +1,12 @@
+F:\Учёба\КПИ\3 курс\МРПЗ\3lab\teamgood\LAb3\LAB3Library1\LAB3Library1\bin\Debug\net7.0\LAB3Library1.deps.json
+F:\Учёба\КПИ\3 курс\МРПЗ\3lab\teamgood\LAb3\LAB3Library1\LAB3Library1\bin\Debug\net7.0\LAB3Library1.dll
+F:\Учёба\КПИ\3 курс\МРПЗ\3lab\teamgood\LAb3\LAB3Library1\LAB3Library1\bin\Debug\net7.0\LAB3Library1.pdb
+F:\Учёба\КПИ\3 курс\МРПЗ\3lab\teamgood\LAb3\LAB3Library1\LAB3Library1\obj\Debug\net7.0\LAB3Library1.csproj.AssemblyReference.cache
+F:\Учёба\КПИ\3 курс\МРПЗ\3lab\teamgood\LAb3\LAB3Library1\LAB3Library1\obj\Debug\net7.0\LAB3Library1.GeneratedMSBuildEditorConfig.editorconfig
+F:\Учёба\КПИ\3 курс\МРПЗ\3lab\teamgood\LAb3\LAB3Library1\LAB3Library1\obj\Debug\net7.0\LAB3Library1.AssemblyInfoInputs.cache
+F:\Учёба\КПИ\3 курс\МРПЗ\3lab\teamgood\LAb3\LAB3Library1\LAB3Library1\obj\Debug\net7.0\LAB3Library1.AssemblyInfo.cs
+F:\Учёба\КПИ\3 курс\МРПЗ\3lab\teamgood\LAb3\LAB3Library1\LAB3Library1\obj\Debug\net7.0\LAB3Library1.csproj.CoreCompileInputs.cache
+F:\Учёба\КПИ\3 курс\МРПЗ\3lab\teamgood\LAb3\LAB3Library1\LAB3Library1\obj\Debug\net7.0\LAB3Library1.dll
+F:\Учёба\КПИ\3 курс\МРПЗ\3lab\teamgood\LAb3\LAB3Library1\LAB3Library1\obj\Debug\net7.0\refint\LAB3Library1.dll
+F:\Учёба\КПИ\3 курс\МРПЗ\3lab\teamgood\LAb3\LAB3Library1\LAB3Library1\obj\Debug\net7.0\LAB3Library1.pdb
+F:\Учёба\КПИ\3 курс\МРПЗ\3lab\teamgood\LAb3\LAB3Library1\LAB3Library1\obj\Debug\net7.0\ref\LAB3Library1.dll
