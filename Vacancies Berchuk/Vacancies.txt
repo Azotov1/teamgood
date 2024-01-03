@@ -1,0 +1,6 @@
+Vacancies: 
+ 
+1.Manager
+2.Operator
+3.Salesman
+4.Moan lowner
